@@ -1,0 +1,1 @@
+SELECT * FROM u1_shm_pdb.shm_table;
